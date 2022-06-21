@@ -1,0 +1,48 @@
+{
+  "productList": [
+    {
+      "name": "test1",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 122,
+      "comment": "dsfs",
+      "date": "2022-06-02T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "name": "test2",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 1222,
+      "comment": "werwerw",
+      "date": "2022-06-01T03:00:00.000Z",
+      "id": 2
+    },
+    {
+      "name": "234234",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 12312,
+      "comment": "3121",
+      "date": "2022-06-22T03:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
